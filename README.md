@@ -1,4 +1,4 @@
-# king_bless-repo
+# 6ixGod
 
 Ethical Termux toolkit â€” device diagnostics, automation, and lab-only helpers.
 
