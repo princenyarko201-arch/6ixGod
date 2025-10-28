@@ -1,0 +1,5 @@
+Save king_bless.sh to a file and make it executable:
+echo the script into king_bless.sh or use an editor.
+chmod +x king_bless.sh
+Run: ./king_bless.sh /path/to/your/project
+Inspect flagged lines and replace unsafe concatenation with parameterized queries (see the secure examples above).
